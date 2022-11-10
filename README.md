@@ -2,7 +2,9 @@
 
 
 ## Anh
-1. [Reading](anh.md)
+1. [Reading](anh.md#reading)
+2. [Full](anh.md#full)
+3. [Writing](anh.md#writing)
 ## Sinh
 1. [Trắc nghiệm](http://phao.qminh.xyz/tracnghiem.html?file=sinh&split=C%C3%A2u)
 2. [Tự luận](#)
