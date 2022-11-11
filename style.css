@@ -32,5 +32,5 @@ body {
 #listCauHoi .cauHoi {
     margin-top: 10px;
     padding: 10px;
-    border: 1px solid rgb(0, 0, 0);
+    border-bottom: 1px solid rgb(203, 203, 203);
 }
