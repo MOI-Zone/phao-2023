@@ -48,7 +48,7 @@ Cho biết những điểm giống nhau và khác nhau quang hợp giữ thực 
 
 
 ## cho đứa đéo nào không open được file pdf
-[công thức lý]()
+[hóa](./hoaimg.md)
 
 
 ![Vinh](img/vinh.jpg)
