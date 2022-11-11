@@ -5,7 +5,7 @@
 ![img](img/7.jpeg)
 ![img](img/8.jpeg)
 
-## Reading
+## Reading abc xyz ccccc
 
 ![img](img/1.jpg)
 ![img](img/2.jpg)
@@ -38,3 +38,5 @@ I am going to talk about MONO. He is a new famous singer and songwriter. Recentl
 I have known MONO since he debut song, “Quen Anh Di”. It came out over a few months ago. At that time, I thought his album not so good, but I was impressed with he voice and her performance when full album released. I guessed this man would become one of the most well-known artists in the future. Now I know I was so right.
 
 To be honest, I did not listen to her very often in the past. I just started to listen more these days. Although he is called Son Tung's younger brother, he is not influenced too much by his brother. He has a dynamic, youthful energy when performing. That is even more evident through the performance at Miss grand Vietnam. He will be a potential in the future.
+
+

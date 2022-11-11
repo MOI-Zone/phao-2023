@@ -7,5 +7,7 @@
 3. [Writing](anh.md#writing)
 ## Sinh
 1. [Trắc nghiệm](http://phao.qminh.xyz/tracnghiem.html?file=sinh&split=C%C3%A2u)
-2. [Tự luận](#)
 
+### Tự luận
+
+1. [Cau 1 abcdeasjclajsdlkvj](#)
