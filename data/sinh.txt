@@ -453,7 +453,7 @@ Câu 11. Trong các trường hợp sau:
 (3) Nguồn nitơ do con người trả lại cho đất sau mỗi vụ thu hoạch bằng phân bón.
 (4) Nguồn nitơ trong nham thạch do núi lửa phun.
 Có bao nhiêu trường hợp không phải là nguồn cung cấp nitrat và amôn tự nhiên?
-A. 1.       ​B. 2.      ​<b>C. 3. </b>      ​D. 4.
+A. 1.       ​B. 2.      C. 3.      <b> ​D. 4. </b>
 Câu 12. Trong các điều kiện sau:
 (1) Có các lực khử mạnh.
 (2) Được cung cấp ATP.
