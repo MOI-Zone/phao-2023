@@ -34,7 +34,8 @@ Cho biết những điểm giống nhau và khác nhau quang hợp giữ thực 
 [Công thức lý](./data/C%C3%B4ng-th%E1%BB%A9c-l%C3%BD-11.pdf)
 
 
-
+## Hóa
+[Trắc nghiệm hóa](./data/hoa.pdf)
 
 -------------------------
 ![Vinh](img/vinh.jpg)
