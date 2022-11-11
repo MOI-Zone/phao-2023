@@ -28,3 +28,12 @@ Hãy chỉ rõ điều kiện, nguyên liệu của pha sáng, sản phẩm củ
 Hãy chỉ ra trên hình 9.2 các điểm mà tại đó sản phẩm của pha sáng đi vào chu trình Canvin.
 Cho biết những điểm giống nhau và khác nhau quang hợp giữ thực vật C3 vi C4](https://phao.qminh.xyz/sinh#c%C3%A2u-12-quan-s%C3%A1t-h%C3%ACnh-91-v%C3%A0-91-sgk)
 12. [Câu 13: Phân biệt các nhóm thực vật C3, C4 và CAM](https://phao.qminh.xyz/sinh#c%C3%A2u-13-ph%C3%A2n-bi%E1%BB%87t-c%C3%A1c-nh%C3%B3m-th%E1%BB%B1c-v%E1%BA%ADt-c3-c4-v%C3%A0-cam)
+
+
+
+
+
+
+
+
+![Vinh](img/vinh.jpg)
