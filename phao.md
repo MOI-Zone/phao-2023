@@ -32,10 +32,20 @@ Cho biết những điểm giống nhau và khác nhau quang hợp giữ thực 
 
 ## Lý
 [Công thức lý](./data/C%C3%B4ng-th%E1%BB%A9c-l%C3%BD-11.pdf)
-
+[Trắc nghiệm lý](./data/ly.pdf)
 
 ## Hóa
 [Trắc nghiệm hóa](./data/hoa.pdf)
 
+
+
+
 -------------------------
+
+
+
+## cho đứa đéo nào không open được file pdf
+[công thức lý]()
+
+
 ![Vinh](img/vinh.jpg)
