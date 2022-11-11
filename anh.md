@@ -17,8 +17,6 @@
 
 My name is MInh. I have a friend near my house. His name is Hoàng. We have played together since childhood. Every day we go to school together and go home together. Since my house and Hoàng are close together, we always go wherever we go. Hoang is a funny person. We often play soccer and badminton together. Hoang is better than me. He often instructs me to solve the homework. Hoang is a good student so my parents really like him. Every time I ask permission to go out with Hoang my parents, I happily agree. Hoang is very hard-working, in his free time he often helps his mother clean the house and cook rice. I am very proud to have a friend like Hoàng.
 
-I’m going to talk about my mom, who I think is the most wonderful person I’ve ever known. Currently, I’m living away from home since I’m going to college in a different city, but I still talk to her every day. She’s my source of inspiration and wisdom.
-
 ### 2
 
 My mom is a great person. Not only is she smart and resilient but she’s also generous to other people around her. She was born in an impoverished family as my grandparents didn’t have much. She’s always told me that her only escape was education.
