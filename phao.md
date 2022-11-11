@@ -6,9 +6,9 @@
 2. [Full](anh.md#full)
 3. [Writing](anh.md#writing)
 ## Sinh
-1. [Trắc nghiệm](http://phao.qminh.xyz/tracnghiem.html?file=sinh&split=C%C3%A2u)
+[Trắc nghiệm](http://phao.qminh.xyz/tracnghiem.html?file=sinh&split=C%C3%A2u)
 
-### Tự luận
+#### Tự luận
 
 1. [Câu 1: Hãy phân biệt cơ chế hấp thụ nước với cơ chế hấp thụ ion khoảng ở rễ cây.](https://phao.qminh.xyz/sinh#c%C3%A2u-1-h%C3%A3y-ph%C3%A2n-bi%E1%BB%87t-c%C6%A1-ch%E1%BA%BF-h%E1%BA%A5p-th%E1%BB%A5-n%C6%B0%E1%BB%9Bc-v%E1%BB%9Bi-c%C6%A1-ch%E1%BA%BF-h%E1%BA%A5p-th%E1%BB%A5-ion-kho%E1%BA%A3ng-%E1%BB%9F-r%E1%BB%85-c%C3%A2y)
 2. [Câu 2: Cho biết có bao nhiều con đường hấp thụ nước từ đất vào mạch gỗ? Mô tả mỗi con dương. Hãy nêu và vai trò của vòng đai Caspari?](https://phao.qminh.xyz/sinh#c%C3%A2u-2-cho-bi%E1%BA%BFt-c%C3%B3-bao-nhi%E1%BB%81u-con-%C4%91%C6%B0%E1%BB%9Dng-h%E1%BA%A5p-th%E1%BB%A5-n%C6%B0%E1%BB%9Bc-t%E1%BB%AB-%C4%91%E1%BA%A5t-v%C3%A0o-m%E1%BA%A1ch-g%E1%BB%97-m%C3%B4-t%E1%BA%A3-m%E1%BB%97i-con-d%C6%B0%C6%A1ng-h%C3%A3y-n%C3%AAu-v%C3%A0-vai-tr%C3%B2-c%E1%BB%A7a-v%C3%B2ng-%C4%91ai-caspari)
@@ -30,10 +30,11 @@ Cho biết những điểm giống nhau và khác nhau quang hợp giữ thực 
 12. [Câu 13: Phân biệt các nhóm thực vật C3, C4 và CAM](https://phao.qminh.xyz/sinh#c%C3%A2u-13-ph%C3%A2n-bi%E1%BB%87t-c%C3%A1c-nh%C3%B3m-th%E1%BB%B1c-v%E1%BA%ADt-c3-c4-v%C3%A0-cam)
 
 
+## Lý
+[Công thức lý](./data/C%C3%B4ng-th%E1%BB%A9c-l%C3%BD-11.pdf)
 
 
 
 
-
-
+-------------------------
 ![Vinh](img/vinh.jpg)
