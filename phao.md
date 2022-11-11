@@ -1,8 +1,8 @@
 # phao-2022
-để quay về trang chủ thì bấm vào logo k12 góc trên trái
 
 ## GOOGLE ĐÂY MẤY EM IU
 [Google](https://www.google.com/search?igu=1)
+ (để quay về trang chủ thì bấm vào logo k12 góc trên trái)
 
 ## Anh
 1. [Reading](anh.md#reading)
