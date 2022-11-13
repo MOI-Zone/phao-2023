@@ -47,7 +47,9 @@ Cho biết những điểm giống nhau và khác nhau quang hợp giữ thực 
 
 
 ## Giáo dục công dân
-[Trắc nghiệm](./tracnghiem.html?file=gdcd&split=SPLIT)
+1. [Trắc nghiệm](./tracnghiem.html?file=gdcd&split=SPLIT)
+2. [Tự luận](./gdcd-tuluan.md)
+
 
 
 
