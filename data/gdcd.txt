@@ -1,43 +1,43 @@
-<NB-COA> Sản xuất của cải vật chất là quá trình
+SPLIT Sản xuất của cải vật chất là quá trình
  
 <#> con người tác động vào tự nhiên để tạo ra các sản phẩm.
  
 
  
-<NB-COA> Một trong những vai trò của sản xuất của cải vật chất là
+SPLIT Một trong những vai trò của sản xuất của cải vật chất là
  
 <#> cơ sở tồn tại của xã hội.
  
 
  
-<NB-COA> sản xuất của cải vật chất có vai trò quyết định
+SPLIT sản xuất của cải vật chất có vai trò quyết định
  
  
 <#> mọi hoạt động của xã hội.
  
 
  
-<NB-COA> Trong các yếu tố cấu thành tư liệu lao động, yếu tố nào dưới đây quan trọng nhất
+SPLIT Trong các yếu tố cấu thành tư liệu lao động, yếu tố nào dưới đây quan trọng nhất
  
  
 <#> Công cụ lao động.
  
 
  
-<NB-COA>Yếu tố nào dưới đây giữ vai trò quan trọng và quyết định nhất trong quá trình sản xuất?
+SPLIT Yếu tố nào dưới đây giữ vai trò quan trọng và quyết định nhất trong quá trình sản xuất?
  
  
 <#> Sức lao động.
  
 
  
-<NB-COA> Quá trình sản xuất gồm các yếu tố nào dưới đây?
+SPLIT Quá trình sản xuất gồm các yếu tố nào dưới đây?
  
-. <#> Sức lao động, đối tượng lao động và tư liệu lao động.
+<#> Sức lao động, đối tượng lao động và tư liệu lao động.
  
 
  
-<NB-COA> Hệ thống những vật làm nhiệm vụ truyền dẫn sự tác động của con người lên dối tượng lao
+SPLIT Hệ thống những vật làm nhiệm vụ truyền dẫn sự tác động của con người lên dối tượng lao
  
 dòng là
  
@@ -46,32 +46,32 @@ dòng là
  
 
  
-<NB-COA> Những yếu tố tự nhiên mà lao động của con người tác động vào được gọi là
+SPLIT Những yếu tố tự nhiên mà lao động của con người tác động vào được gọi là
  
 <#> Đối tượng lao động
  
 
  
-<NB-COA> Phát triển kinh tế là
+SPLIT Phát triển kinh tế là
  
 <#> Sự tăng trưởng kinh tế gắn liền với cơ cấu kinh tế hợp lí, tiến bộ và công bằng xã hội
  
 
  
-<NB-COA>Tăng trưởng kinh tế gắn liền với cơ cấu kinh tế hợp lí, tiến bộ và công bằng xã hội là
+SPLIT Tăng trưởng kinh tế gắn liền với cơ cấu kinh tế hợp lí, tiến bộ và công bằng xã hội là
  
 <#> Phát triển kinh tế.
  
  
 
  
-<NB-COA> Trong tư liệu lao động, yếu tố nào sau đây là quan trọng nhất?
+SPLIT Trong tư liệu lao động, yếu tố nào sau đây là quan trọng nhất?
  
 <#> Công cụ lao động.
  
 
  
-<NB-COA> Những yếu tố tự nhiên mà lao động của con người tác động vào nhằm biến đổi nó cho phù
+SPLIT Những yếu tố tự nhiên mà lao động của con người tác động vào nhằm biến đổi nó cho phù
  
 hợp với mục đích của con người được gọi là
  
@@ -80,7 +80,7 @@ hợp với mục đích của con người được gọi là
  
 
  
-<NB-COA> Hệ thống bình chứa của sản xuất thuộc yếu tố cơ bản nào dưới đây của quá trình sản xuất?
+SPLIT Hệ thống bình chứa của sản xuất thuộc yếu tố cơ bản nào dưới đây của quá trình sản xuất?
  
  
 <#> Tư liệu lao động.
@@ -88,49 +88,49 @@ hợp với mục đích của con người được gọi là
  
 
  
-<NB-COA> Sản xuất của cải vật chất giữ vai trò là
+SPLIT Sản xuất của cải vật chất giữ vai trò là
  
  <#> cơ sở cho sự tồn tại và phát triển của xã hội.
  
 
  
-<NB-COA> Phát triển kinh tế có ý nghĩa nào sau đây đối với cá nhân?
+SPLIT Phát triển kinh tế có ý nghĩa nào sau đây đối với cá nhân?
  
 <#> Tạo điều kiện cho mọi người có việc làm và thu nhập.
  
 
  
-<NB-COA> Sự tăng trưởng kinh tế là biểu hiện của sự
+SPLIT Sự tăng trưởng kinh tế là biểu hiện của sự
  
 <#> phát triển kinh tế.
  
 
  
  
-<NB-COA> Yếu tố nào dưới đây không thuộc tư liệu lao động?.
+SPLIT Yếu tố nào dưới đây không thuộc tư liệu lao động?.
  
  
 <#> Người lao động.
  
-<NB-COA> Đối với gia đình, phát triển kinh tế là tiền đề để
+SPLIT Đối với gia đình, phát triển kinh tế là tiền đề để
  
 <#> thực hiện tốt chức năng kinh tế
  
 
  
-<TH-COA> Căn cứ để phân biệt đối tượng lao động và tư liệu lao động đó là
+SPLIT Căn cứ để phân biệt đối tượng lao động và tư liệu lao động đó là
  
 <#> mục đích sử dụng gắn với chức năng của vật trong sản xuất.
  
  
 
  
-<TH-COA> Tất cả các loại đối tượng lao động, dù trực tiếp hay gián tiếp đều
+SPLIT Tất cả các loại đối tượng lao động, dù trực tiếp hay gián tiếp đều
  
 <#> có nguồn gốc từ tự nhiên.
  
  
- <TH-COA> Xét đến cùng, sự vận động và phát triển của toàn bộ mọi mặt đời sống xã hội là do
+ SPLIT Xét đến cùng, sự vận động và phát triển của toàn bộ mọi mặt đời sống xã hội là do
  
  
 <#> sản xuất của cải vật chất quyết định.
@@ -138,25 +138,25 @@ hợp với mục đích của con người được gọi là
  
 
  
-<TH-COA> Theo C. Mác, chúng ta có thể dựa vào đâu để phân biệt các thời đại kinh tế khác nhau trong lịch sử ?
+SPLIT Theo C. Mác, chúng ta có thể dựa vào đâu để phân biệt các thời đại kinh tế khác nhau trong lịch sử ?
  
 <#> Tư liệu lao động.
  
 
  
-<TH-COA> Đối tượng lao động và tư liệu lao động kết hợp lại thành
+SPLIT Đối tượng lao động và tư liệu lao động kết hợp lại thành
  
 <#> tư liệu sản xuất
  
 
  
-<TH-COA> Em đồng ý với ý kiến nào sau đây?
+SPLIT Em đồng ý với ý kiến nào sau đây?
  
 <#> Sự tiêu dùng sức lao động trong hiện thực tạo ra lao động.
  
 
  
-<TH-COA> Em không đồng ý với ý kiến nào sau đây?
+SPLIT Em không đồng ý với ý kiến nào sau đây?
  
  
 <#> Lao động là toàn bộ năng lực thể chất và tinh thần của con người
@@ -164,7 +164,7 @@ hợp với mục đích của con người được gọi là
  
 
  
-<TH-COA> Để tạo ra quá trình sản xuất, em lựa chọn kết hợp các yếu tố nào sau đây?
+SPLIT Để tạo ra quá trình sản xuất, em lựa chọn kết hợp các yếu tố nào sau đây?
  
 <
  
@@ -172,32 +172,22 @@ hợp với mục đích của con người được gọi là
  
 
  
-<TH-COA> Muốn thúc đẩy sự phát triển của sản xuất thị trước tiên phải chăm lo đầu tư phát triển
- 
-<$> nguồn tài chính.
- 
- 
+SPLIT Muốn thúc đẩy sự phát triển của sản xuất thị trước tiên phải chăm lo đầu tư phát triển
 <#> nguồn lực con người.
  
- 
-
- 
-<TH-COA> Công cụ lao động của người nông dân là
- 
-Phong cách
- 
+SPLIT Công cụ lao động của người nông dân là
 <#> máy cày
  
  
 
  
-<TH-COA> Đối tượng lao động của người nông dân là
+SPLIT Đối tượng lao động của người nông dân là
  
 <#> đất đai
  
 
  
-<TH-COA> Hoạt động nào sau đây được coi là lao động ?
+SPLIT Hoạt động nào sau đây được coi là lao động ?
  
  
 <#> Chị H đang học Toán
@@ -205,59 +195,59 @@ Phong cách
  
 
  
-<TH-COA> Hoạt động nào sau đây không được coi là lao động ?
+SPLIT Hoạt động nào sau đây không được coi là lao động ?
  
  
 <#> Chim tha mỗi về tổ.
  
 
  
-<TH-COA> Người lao động và tư liệu sản xuất kết hợp lại
+SPLIT Người lao động và tư liệu sản xuất kết hợp lại
  
 <#> lực lượng sản xuất. quá trình sản xuất.
  
  
 
  
-<TH-COA> Công cụ lao động của người thợ may là
+SPLIT Công cụ lao động của người thợ may là
  
  
 <#> máy khâu
  
 
  
-<TH-COA> Tư liệu lao động của người thợ may là
+SPLIT Tư liệu lao động của người thợ may là
  
 <#> máy khâu, bản là, thước.
  
  
 
  
-<TH-COA> Khẳng định nào dưới dâu không đúng khi nói đến ý nghĩa của phát triển kinh tế đối với xã hội?
+SPLIT Khẳng định nào dưới dâu không đúng khi nói đến ý nghĩa của phát triển kinh tế đối với xã hội?
  
  
 <#> Phát triển kinh tế tạo điều kiện cho mỗi người có việc làm và thu nhập ổn định.
  
 
  
-<NB-COA> Một sản phẩm trở thành hàng hóa cần có mấy điều kiện?
+SPLIT Một sản phẩm trở thành hàng hóa cần có mấy điều kiện?
  
 <#> Ba điều kiện
  
 
  
-<NB-COA> Hàng hóa có hai thuộc tính là
+SPLIT Hàng hóa có hai thuộc tính là
  
 <#> giá trị và giá trị sử dụng
  
  
-<NB-COA> Giá trị của hàng hóa là
+SPLIT Giá trị của hàng hóa là
  
 <#> Lao động xã hội của người sản xuất hàng hóa kết tinh trong hàng hóa
  
 
  
-<NB-COA> Giá trị của hàng hóa được thực hiện khi
+SPLIT Giá trị của hàng hóa được thực hiện khi
  
 <#> Người sản xuất mang hàng hóa ra thị trường bán và bán được
  
@@ -265,11 +255,11 @@ Phong cách
 
  
  
-<NB-COA> Sản xuất và lưu thông hàng hóa phải dựa trên cơ sở nào dưới đây?
+SPLIT Sản xuất và lưu thông hàng hóa phải dựa trên cơ sở nào dưới đây?
  
 <#> Thời gian lao động xã hội cần thiết để sản xuất ra hàng hóa
  
-<NB-COA> Hai hàng hóa có thể trao đổi được với nhau vì
+SPLIT Hai hàng hóa có thể trao đổi được với nhau vì
  
  
 <#> Chúng có giá trị bằng nhau
@@ -277,44 +267,44 @@ Phong cách
 
  
  
-<NB-COA> Giá trị của hàng hóa được biểu hiện thông qua
+SPLIT Giá trị của hàng hóa được biểu hiện thông qua
  
 <#> Giá trị trao dổi
  
  
 
  
-<NB-COA> Tiền thực hiện chức năng thước đo giá trị khi
+SPLIT Tiền thực hiện chức năng thước đo giá trị khi
  
 <#> Tiền dùng để do lường và biểu hiện giá trị của hàng hóa  
  
 
  
-<NB-COA> Giá trị sử dụng của hàng hóa là
+SPLIT Giá trị sử dụng của hàng hóa là
  
 <#> công dụng của sản phẩm thỏa mãn nhu cầu nào đó của con người
  
 
-<NB-COA> Hai hàng hóa có thể trao đổi được với nhau vì
+SPLIT Hai hàng hóa có thể trao đổi được với nhau vì
  
 <#>chúng có giá trị bằng nhau
  
  
 
  
-<NB-COA> Trong nền sản xuất hàng hóa, giá cả hàng hóa là
+SPLIT Trong nền sản xuất hàng hóa, giá cả hàng hóa là
  
 <#> biểu hiện bằng tiền của giá trị hàng hóa.
  
 
  
-<NB-COA> Giá trị của hàng hóa được biểu hiện thông qua
+SPLIT Giá trị của hàng hóa được biểu hiện thông qua
  
 <#> giá trị trao đổi
  
 
  
-<NB-COA> Tiền được dùng để chi trả sau khi giao dịch, mua bán. Khi đó tiền thực hiện chức
+SPLIT Tiền được dùng để chi trả sau khi giao dịch, mua bán. Khi đó tiền thực hiện chức
  
 năng gì dưới đây
  
@@ -322,7 +312,7 @@ năng gì dưới đây
  
 
  
-<NB-COA> Nếu tiền rút khỏi lưu thông và đi vào cất trữ để khi cần thì đem ra mùa hàng là tiền
+SPLIT Nếu tiền rút khỏi lưu thông và đi vào cất trữ để khi cần thì đem ra mùa hàng là tiền
  
 thực hiện chức năng gì dưới đây?
  
@@ -331,14 +321,14 @@ thực hiện chức năng gì dưới đây?
  
 
  
-<NB-COA> Sản xuất và lưu thông hàng hóa phải dựa trên cơ sở nào dưới đây?
+SPLIT Sản xuất và lưu thông hàng hóa phải dựa trên cơ sở nào dưới đây?
  
 <#> Thời gian lao động xã hội cần thiết để sản xuất ra hàng hóa
  
 
  
  
-<NB-COA> Thông tin của thị trường quan trọng như thế nào đối với người bán?
+SPLIT Thông tin của thị trường quan trọng như thế nào đối với người bán?
  
 <#> Đưa ra quyết định kịp thời nhằm thu nhiều lợi nhuận
  
@@ -350,19 +340,19 @@ thực hiện chức năng gì dưới đây?
  
 
  
-<NB-COA> Thông tin của thị trường giúp người mua
+SPLIT Thông tin của thị trường giúp người mua
  
 <#> điều chỉnh việc mua sao cho có lợi nhất
  
 
  
-<TH-COA> Thông qua yếu tố nào dưới dậy, hàng hóa sẽ được phân phối lại theo hướng từ nơi có lãi ít hoặc không có lãi sang nơi có lãi nhiều?
+SPLIT Thông qua yếu tố nào dưới dậy, hàng hóa sẽ được phân phối lại theo hướng từ nơi có lãi ít hoặc không có lãi sang nơi có lãi nhiều?
  
 <#> Giá cả thị trường.
  
 
  
-<TH-COA> Yếu tố nào dưới dây làm cho giá cả hàng hóa có thể cao hơn hoặc thấp hơn giá trị của
+SPLIT Yếu tố nào dưới dây làm cho giá cả hàng hóa có thể cao hơn hoặc thấp hơn giá trị của
  
 hàng hóa?
  
@@ -372,89 +362,89 @@ hàng hóa?
 
  
  
-<TH-COA> Vật phẩm nào dưới dây không phải là hàng hóa?
+SPLIT Vật phẩm nào dưới dây không phải là hàng hóa?
  
 <#> Không khí
  
  
 
  
-<TH-COA> Vật phẩm nào dưới đây là hàng hóa?
+SPLIT Vật phẩm nào dưới đây là hàng hóa?
  
 <#> Điện
  
 
  
-<TH-COA> Chức năng nào dưới đây của tiền tệ đòi hỏi tiền phải là tiền bằng vàng?
+SPLIT Chức năng nào dưới đây của tiền tệ đòi hỏi tiền phải là tiền bằng vàng?
  
 <#> Phương tiện cất trữ 
  
  
-<TH-COA> Tiền làm chức năng phương tiện cất trữ trong trường hợp nào dưới đây?
+SPLIT Tiền làm chức năng phương tiện cất trữ trong trường hợp nào dưới đây?
  
  
 <#> Mua vàng cắt vào kết
  
 
  
-<TH-COA> Thông qua yếu tố nào dưới đây, hàng hóa sẽ được phân phối lại theo hướng từ nơi có lãi ít hoặc không có lãi sang nơi có lãi nhiều?
+SPLIT Thông qua yếu tố nào dưới đây, hàng hóa sẽ được phân phối lại theo hướng từ nơi có lãi ít hoặc không có lãi sang nơi có lãi nhiều?
  
 <#> Giả cả thị trường.
  
 
  
-<TH-COA> Vật phẩm nào dưới dây không phải là hàng hóa?
+SPLIT Vật phẩm nào dưới dây không phải là hàng hóa?
  
  
 <S> Rau trồng để bán.
  
 
  
-<TH-COA> Vật phẩm nào dưới đây là hàng hóa?
+SPLIT Vật phẩm nào dưới đây là hàng hóa?
  
 <#> Ti Vi
  
 
  
-<TH-COA> Chức năng nào dưới dãy của tiền tệ phải đòi hỏi tiền phải là tiền bằng vàng?
+SPLIT Chức năng nào dưới dãy của tiền tệ phải đòi hỏi tiền phải là tiền bằng vàng?
  
  
 <#> Tiền tệ thế giới, phương tiện cất trữ.
  
 
  
-<TH-COA> Yếu tố nào dưới đây là dối tượng lao động trong nghành Xây dựng?
+SPLIT Yếu tố nào dưới đây là dối tượng lao động trong nghành Xây dựng?
  
 <#> Xi măng.
  
  
 
  
-<TH-COA> Đối tượng nào sau đây có sẵn trong tự nhiên?
+SPLIT Đối tượng nào sau đây có sẵn trong tự nhiên?
  
  
 <#> Khoảng sản
  
 
  
-<TH-COA> Đối tượng nào sau đây không có sẵn trong tự nhiên?
+SPLIT Đối tượng nào sau đây không có sẵn trong tự nhiên?
  
 <#> Xi măng.
  
 
  
-<TH-COA> Đối tượng lao động của người thợ mỏ là?
+SPLIT Đối tượng lao động của người thợ mỏ là?
  
 <#> Khoáng sản.
  
-<TH-COA> De may một cái áo A may hết 5 giờ. Thời gian lao động xã hội cần thiết để may cái áo là 4 giờ. Vậy A bán chiếc áo giá cả tương ứng với
+SPLIT De may một cái áo A may hết 5 giờ. Thời gian lao động xã hội cần thiết để may cái áo là 4 giờ. Vậy A bán chiếc áo giá cả tương ứng với
  
  
 <#>4 giờ.
  
 
  
-<TH-COA> Để làm xong một chiếc bàn, hao phí lao động của anh B tính theo thời gian mất 4 giờ lao động. Khi đó, 4 giờ lao động của anh B được gọi là thời gian lao động
+SPLIT Để làm xong một chiếc bàn, hao phí lao động của anh B tính theo thời gian mất 4 giờ lao động. Khi đó, 4 giờ lao động của anh B được gọi là thời gian lao động
  
  
 <#> cá biệt.
@@ -462,45 +452,45 @@ hàng hóa?
  
 
  
-<TH-COA> Tiền làm chức năng phương tiện cất trữ trong trường hợp nào dưới đây?
+SPLIT Tiền làm chức năng phương tiện cất trữ trong trường hợp nào dưới đây?
  
  
 <#> Mua vàng cất vào két
  
 
  
-<TH-COA> Tiền làm chức năng phương tiện lưu thông trong trường hợp nào dưới đây?
+SPLIT Tiền làm chức năng phương tiện lưu thông trong trường hợp nào dưới đây?
 <#> mở cửa hàng bán quần áo
 
  
  
-<TH-COA> Vật phẩm nào dưới đây không phải là hàng hóa?
+SPLIT Vật phẩm nào dưới đây không phải là hàng hóa?
 <#> Nuôi gà dễ ăn.
  
  
 
  
-<TH-COA> Vật phẩm nào dưới đây là hàng hóa?
+SPLIT Vật phẩm nào dưới đây là hàng hóa?
  
 <#> Máy tính
  
  
 
  
-<TH-COA> Chức năng nào dưới đây của tiền tệ không đòi hỏi tiền phải là tiền bằng vàng?
+SPLIT Chức năng nào dưới đây của tiền tệ không đòi hỏi tiền phải là tiền bằng vàng?
  
 <#> Thước do giá trị, phương tiện lưu thông, phương tiện thanh toán.
  
  
  
-<TH-COA> Tiền làm chức năng phương tiện lưu thông trong trường hợp nào dưới đây?
+SPLIT Tiền làm chức năng phương tiện lưu thông trong trường hợp nào dưới đây?
  
 <#> MỞ cửa hàng bán quần áo
  
 
  
  
-<TH-COA> Vật phẩm nào dưới đây không phải là hàng hóa?
+SPLIT Vật phẩm nào dưới đây không phải là hàng hóa?
  
  
 <#> Nuôi gà dễ ăn.
@@ -508,13 +498,13 @@ hàng hóa?
  
 
  
-<TH-COA> Vật phẩm nào dưới đây là hàng hóa?
+SPLIT Vật phẩm nào dưới đây là hàng hóa?
  
 <#> Máy tính
  
  
 
  
-<TH-COA> Chức năng nào dưới đây của tiền tệ không đòi hỏi tiền phải là tiền bằng vàng?
+SPLIT Chức năng nào dưới đây của tiền tệ không đòi hỏi tiền phải là tiền bằng vàng?
  
 <#> Thước do giá trị, phương tiện lưu thông, phương tiện thanh toán.
