@@ -53,6 +53,7 @@ Cho biết những điểm giống nhau và khác nhau quang hợp giữ thực 
 
 ## Địa
 1. [Trắc nghiệm](./tracnghiem.html?file=dia&split=C%C3%A2u)
+2. [Tự luận](./data/dia.html)
 
 
 
