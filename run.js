@@ -10,7 +10,7 @@ function renderCauHoi(cauHoi) {
 }
 
 function ready() {
-    readfile('sinh').then((data) => {
+    readfile(fileName).then((data) => {
         data.shift()
         // console.log(data);
         data.forEach((cauHoi) => {
