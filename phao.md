@@ -45,7 +45,7 @@ Cho biết những điểm giống nhau và khác nhau quang hợp giữ thực 
 [Trắc nghiệm](./tracnghiem.html?file=su&split=C%C3%A2u)
 
 ## Giáo dục công dân
-[Trắc nghiệm](./tracnghiem.html?file=gdcd&split=<NB-COA>)
+[Trắc nghiệm](./tracnghiem.html?file=gdcd&split=SPLIT)
 
 
 
