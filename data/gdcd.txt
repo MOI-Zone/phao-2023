@@ -334,7 +334,7 @@ SPLIT Thông tin của thị trường quan trọng như thế nào đối với
  
 
  
-<NB-CON> Thông tin của thị trường giúp người bán
+SPLIT Thông tin của thị trường giúp người bán
  
 <#> đưa ra quyết định kịp thời nhằm thu nhiều lợi nhuận.
  
