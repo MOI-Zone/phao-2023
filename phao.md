@@ -43,7 +43,7 @@ Cho biết những điểm giống nhau và khác nhau quang hợp giữ thực 
 
 ## Sử
 1. [Trắc nghiệm](./tracnghiem.html?file=su&split=C%C3%A2u)
-2. [Tự luận](./data/su.txt)
+2. [Tự luận](./data/su.html)
 
 
 ## Giáo dục công dân
