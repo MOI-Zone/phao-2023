@@ -8,6 +8,7 @@
 1. [Reading](anh.md#reading)
 2. [Full](anh.md#full)
 3. [Writing](anh.md#writing)
+
 ## Sinh
 [Trắc nghiệm](./tracnghiem.html?file=sinh&split=C%C3%A2u)
 
@@ -49,6 +50,8 @@ Cho biết những điểm giống nhau và khác nhau quang hợp giữ thực 
 ## Giáo dục công dân
 1. [Trắc nghiệm](./tracnghiem.html?file=gdcd&split=SPLIT)
 2. [Tự luận](./gdcd-tuluan.md)
+
+## Địa
 
 
 
