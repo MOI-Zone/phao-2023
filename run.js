@@ -1,4 +1,4 @@
-async function readfile(fileName,split) {
+async function readfile(fileName, splitName) {
     const response = await fetch(`./data/${fileName}.txt`)
     const text = await response.text()
     return text.split(splitName)
@@ -10,7 +10,10 @@ function renderCauHoi(cauHoi) {
 }
 
 function ready() {
-    readfile(fileName).then((data) => {
+    let searchParams = new URLSearchParams(window.location.search)
+    var fileName = searchParams.get('file')
+    var splitName = searchParams.get('split')
+    readfile(fileName, splitName).then((data) => {
         data.shift()
         // console.log(data);
         data.forEach((cauHoi) => {
@@ -52,6 +55,3 @@ document.querySelector("#search").onkeyup = _ => {
     search();
 }
 
-let searchParams = new URLSearchParams(window.location.search)
-var fileName = searchParams.get('file')
-var splitName = searchParams.get('split')
