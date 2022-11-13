@@ -6,7 +6,7 @@ b) Trong cuộc sống hàng ngày, em đã vận dụng được các chức n�
  
 Trả lời:
  
-a) Bác Minh đã thực hiện chức năng thước đo giá trị: tiền tệ thực hiện chức năng thước đo giá trị khi tiền được để đo lường và biểu hiện giá trị của hàng hóa triệu + 1 chiếc xe đạp:5 triệu phương tiện lưu thông : tiền làm môi giới cho quá trình trao đổi hàng hóa theo công thức H-T-H trong đó H-T là quá trình bán, T-H là quá trình mua. Bác Minh bán cà phê lấy tiền, dùng để mua vàng, đi du lịch, mua bảo hiểm, mua xe đạp
+a) Bác Minh đã thực hiện chức năng thước đo giá trị: tiền tệ thực hiện chức năng thước đo giá trị khi tiền được để đo lường và biểu hiện giá trị của hàng hóa:
  
 + 1ha cà phê :50 triệu
 + 5 chỉ vàng: 25 triệu
@@ -18,23 +18,27 @@ a) Bác Minh đã thực hiện chức năng thước đo giá trị: tiền t�
  
 - phương tiện cất trữ: bác Minh dùng 25 triệu để mua vàng có nghĩa là tiền tệ đã rút khỏi lưu thông và được cất trữ khi cần thì đem ra mua hàng và tiền phải đủ giá tri
  
--phương tiện thanh toán:tiền tệ được dùng để chi trả các khoản giao dịch, mua bán. Bác Minh dùng tiền 25 triệu mua 5 chỉ vàng, 10 triệu đi du lịch nước ngoài, 10 triệu mua bảo hiểm nhân thọ, 5 triệu mua xe đạp
+- phương tiện thanh toán:tiền tệ được dùng để chi trả các khoản giao dịch, mua bán. Bác Minh dùng tiền 25 triệu mua 5 chỉ vàng, 10 triệu đi du lịch nước ngoài, 10 triệu mua bảo hiểm nhân thọ, 5 triệu mua xe đạp
  
 - tiền tệ thế giới: khi trao đổi hàng hóa vượt ra khỏi biên giới quốc gia thì tiền làm chức năng tiền tệ thế giới. Bác Minh dùng 10 triệu để đi du lịch nước ngoài
  
 b) Trong cuộc sống hàng ngày, em đã vận dụng được các chức năng của tiền tệ
  
--phương tiện thanh toán: con đã dùng tiền để mua sách vở, đồ dùng học tập, quần áo,...
+- phương tiện thanh toán: con đã dùng tiền để mua sách vở, đồ dùng học tập, quần áo,...
  
--phương tiện cất trữ: hàng năm, con có 1 khoản tiền tích trữ để mua vàng cất trữ.
+- phương tiện cất trữ: hàng năm, con có 1 khoản tiền tích trữ để mua vàng cất trữ.
  
  
 ## Câu 2: Em hãy nêu giải pháp vận dụng tác động điều tiết sản xuất của quy luật giá trị khi tham gia sản xuất hàng hóa để mang lại hiệu quả kinh tế cao.
  
--quy luật giá trị điều tiết hàng hóa thông qua giá trị hàng hóa
--đổi mới khoa học kỹ thuật, hợp lý hóa sản xuất, thực hành tiết kiệm,
--nâng cao tay nghề của người lao động, đào tạo nguồn nhân lực, cải tiến kĩ thuật
+- quy luật giá trị điều tiết hàng hóa thông qua giá trị hàng hóa
+
+- đổi mới khoa học kỹ thuật, hợp lý hóa sản xuất, thực hành tiết kiệm,
+
+- nâng cao tay nghề của người lao động, đào tạo nguồn nhân lực, cải tiến kĩ thuật
+
 - thay đổi chế độ quản lí làm cho giá trị cá biệt của hàng hóa nhỏ hơn giá trị xh của hàng hóa
+
  
 ## Câu 3: Một số cá nhân kinh doanh khẩu trang, lợi dụng tình hình dịch COVID-19 đã đầu cơ tích trữ mặt hàng này và đẩy giá sản phẩm lên cao gây rối loạn thị trường để thu nhiều lợi nhuận bất chính.
 a. Theo em, thực trạng trên thể hiện mặt nào của quy luật cạnh tranh?
