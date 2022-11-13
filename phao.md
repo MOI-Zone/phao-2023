@@ -52,7 +52,7 @@ Cho biết những điểm giống nhau và khác nhau quang hợp giữ thực 
 2. [Tự luận](./gdcd-tuluan.md)
 
 ## Địa
-
+1. [Trắc nghiệm](./tracnghiem.html?file=dia&split=C%C3%A2u)
 
 
 
