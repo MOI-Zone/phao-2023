@@ -42,8 +42,8 @@ Cho biết những điểm giống nhau và khác nhau quang hợp giữ thực 
 
 
 ## Sử
-[Trắc nghiệm](./tracnghiem.html?file=su&split=C%C3%A2u)
-[Tự luật](./data/su.txt)
+1. [Trắc nghiệm](./tracnghiem.html?file=su&split=C%C3%A2u)
+2. [Tự luận](./data/su.txt)
 
 
 ## Giáo dục công dân
