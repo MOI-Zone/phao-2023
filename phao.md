@@ -55,7 +55,10 @@ Cho biết những điểm giống nhau và khác nhau quang hợp giữ thực 
 1. [Trắc nghiệm](./tracnghiem.html?file=dia&split=C%C3%A2u)
 2. [Tự luận](./data/dia.html)
 
-
+## Toanssss
+1. [Trắc nghiệm](./data/toan.pdf)
+2. [Trắc nghiệm (Cho máy không load được bên trên   )](./toanpng.md)
+3. [Tự luận](./toan.md)
 
 
 -------------------------
