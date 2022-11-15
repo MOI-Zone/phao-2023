@@ -59,6 +59,7 @@ Cho biết những điểm giống nhau và khác nhau quang hợp giữ thực 
 1. [Trắc nghiệm](./data/toan.pdf)
 2. [Trắc nghiệm (Cho máy không load được bên trên   )](./toanpng.md)
 3. [Tự luận](./toan.md)
+4. [Công thức](./data/PT-CT-Luong-Giac.pdf)
 
 
 -------------------------
