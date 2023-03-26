@@ -112,7 +112,7 @@ Choose the letter A, B, C, or D to indicate the correct answer to each of the fo
 2. He left the phone ring for 5 minutes and then slowly replaced the receiver.
 - Having left the phone ring for 5 minutes, he slowly replaced the receiver
  
-WORD FORMATION
+## WORD FORMATION
 1. People should not capture animals for__**recreation**__ and entertainment. ​​​(RECREATE)
 2. Coal, gas and oil are __**non-renewable**__ forms of energy that cannot be replaced after used.​ (RENEW)
 3. Scientists have made lists of__**endangered**__ species. ​​​​(DANGER)
@@ -120,3 +120,20 @@ WORD FORMATION
 5. The panda's __**natural**__ habitat is the bamboo forest. ​​​​(NATURE)
 6. You have to be aware of the damage humans are doing to quicken the __**extinction**__ of wildlife. (EXTINCT)
 
+{toggle} Click the button to reveal!
+:show:
+Some hidden toggle content!
+
+
+
+-----
+## câu tiếng việt
+ 
+1. Tôi rất vui khi nghe bạn sẽ ở đây vào tuần sau. ( pleased)
+- I am pleased to hear that you will be here next week
+2. Vì đây là lần đầu bạn đến nhà tôi. Bạn có khó khăn để tìm đường. ( since, difficult)
+- Since this is the first time you have come to my house, you have difficulty in finding the way
+3. Tôi viết cho bạn để nói về thế nào để đến nhà của tôi. ( how to )
+- I am wirting to tell you how to get to my house
+4. Bạn sẽ mất 20 phút để đi bộ từ nhà đến trạm tàu. ( it take to)
+- It takes you 20 minutes to walk from your house to the train station
