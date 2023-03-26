@@ -1,40 +1,122 @@
-## FULL
-![img](img/4.jpeg)
-![img](img/5.jpeg)
-![img](img/6.jpeg)
-![img](img/7.jpeg)
-![img](img/8.jpeg)
+## PRONUNCIATION
+- A. nature ​**​B. nation** ​​C. suggestion ​​D. situation
+- A. attracted ​​B. added ​​C. competed  ​**​D. developed**
+ 
 
-## Reading abc xyz ccccc
+## Grammar
+Choose the letter A, B, C, or D to indicate the correct answer to each of the following questions. (1.5 points)
+1. In order to ______ sure that these rare animals do not disappear, their environment should be protected
+- A. do​​​ **​B. make** ​​​C. have ​​D. get
+2. An extra copy of each document was supplied for onward _____ to head office
+- **A. transmission** B. transmit C. transmitter D. transmitted
+3. Global warming will result ________ crop failures and famines.
+- A. with ​​​B. from ​​​C. for **​​​D. in**
+  
+4. ​We are now facing the possible _____of several rare species.
+- ​A. danger B. variety​ C. existence​​ **​D. disappearance**
+5. Taj Mahal, _____ by Shah Janhan, is thought to be one of the great architectural wonders of the world.
+- A. being built            ​​B. was built         ​**​C. which was built**     D. been built
+6. The man ______ at the blackboard is our teacher.
+- A. stood                     ​​B. stands                     ​**​C. standing**               D. to stand  
+7. Some scientists are _______ of not having reported the effects of climate change.
+- A. complained ​B. blamed **​C. accused** ​D. apologised 
+8. She is the first girl in my class ______ part in the volleyball club.
+- **A. to take** ​B. takes ​  C. taking ​    D. take
+9.  Instead______  petrol, cars will only run ______ solar energy and electricity.
+- **A. of – on​**     B. of - by ​         C. in - over ​           D. from – upon
+10.  We can go to the National Park to learn about the different ______ of animals and plants .
+- A. types                          ​   **B. species​**​             C. sorts ​​       D.  means
+11.  Marie, ______ I met at the party, called me last night.
+- A. that​​​​   **B. who**​                         C. which​                    D. whose
+12.  Linda was the last student ______ at the oral exam.
+- **A. to be asked**  B. asking         C. asks    D. to ask
 
-![img](img/1.jpg)
-![img](img/2.jpg)
-![img](img/3.jpg)
+1.   The local clubs are making every _______ to interest more young people.
+- A. volunteer ​B. **effort** ​C. donation ​D. fund
+1.    The health of our children is being ______ by exhaust fumes.
+- A. danger​​      B. endanger ​        C. dangerous ​         **D. endangered**    
+1.   The clerk said she was tired ________ hearing complaints day after day.
+- **A. of** ​​​      B. with​​        C. for​​          D. about
+1.   As fossil fuels are limited, scientists have been working hard to develop alternative ________ of energy.
+- A. origins ​​      B. inputs ​​        **C. sources** ​          D. products
+1.   The man ________ was injured in the car accident last night is now in hospital.
+- **A. who** ​​      B. which ​​        C. where                        D. why
+1.   We should participate in the movement ________ to conserve the natural environment.
+- **A. organized​**             B. to organize  ​        C. organizing ​           D. organize
 
-## Writing
+## WRITING
+1. Some documents have been found. They were stolen from a car.
+- Some documents which were stolen from a car have been found
+2. I’ll give you the address. You should write to it.
+- I’ll give you the address to which you should write
+3. The man is a famous actor. You met him at the party last night.  
+- The man whom you met at the party last night is a famous actor
+4. The man was very kind. I talked to him yesterday.  
+- The man whom i talked to yesterday was very kind
+5. I bought a cell phone. I can use it to send and receive e-mail.  
+- I bought a cell phone which i can use to send and receive e-mail
+6. The movie is fantastic. They are talking about it. 
+- The movie about which they are talking is fantastic
+7. Professor Wilson is an excellent lecturer. He teaches Chemistry.
+-  Professor Wilson, who teaches Chemistry, is an excellent lecturer
+8. The man is a fomous actor. You met him at the party last night.
+-  The man whom you met at the party last night is a famous actor
+9. There are some words. They are very difficult to translate.
+- There are some words which are very difficult to translate.
+10. The student writes well. I read her composition.
+- The student whose composition I read writes well.
+ 
+11. Jim’s sister is a famous architect. You met her yesterday.
+-  Jim's sister,whom you met yesterday, is a famous architect.
+ 
+12. I received two job offers. I accepted neither of them.
+- I received two job offers, neither of which I accepted.
+13. I was looking for a book this morning. I’ve found it now.
+- I’ve found the book that/which I was looking for in the morning.
+ 
+14. Mrs. Smith does volunteer work at the hospital. She is a retired teacher.
+-   Mrs. Smith who does volunteer work at the hospital is a retired teacher
+ 
+15. I live in a dormitory. Its residents come from many countries.
+-  I live in a dormitory whose residents come from many countries.
+ 
+## RÚT GỌN MĐQH
 
-### 1
+1. Do you know the woman who is coming toward us?
+- Do you know the women coming toward us
+2. The road that joins the two villages is very narrow.
+- The road joining the two villages is very narrow
+3. Most of goods that are made in this factory are exported.
+- Most of goods made in this factory are exported
+4. Kuala Lumpur, which is the capital of Malaysia, is a major trade center in Southeast Asia.
+- Kuala Lumpur, the capital of Malaysia, is a major trade center in Southeast Asia.
+5. The woman who lived here before us is a romantic novelist.
+- The woman living here before us is a romantic novelist.
+6. He was the first man who left the burning building
+- He was the first man to leave the burning building
+7. My brother was the only student who got mark 10 in maths for the first semester exam.  
+-My brother was the only student to get mark 10 in maths for the first semester exam.
+ 
+8. My sister was the only person who won the gold medal last year.
+- My sister was the only person to win the gold medal last year.
 
-My name is MInh. I have a friend near my house. His name is Hoàng. We have played together since childhood. Every day we go to school together and go home together. Since my house and Hoàng are close together, we always go wherever we go. Hoang is a funny person. We often play soccer and badminton together. Hoang is better than me. He often instructs me to solve the homework. Hoang is a good student so my parents really like him. Every time I ask permission to go out with Hoang my parents, I happily agree. Hoang is very hard-working, in his free time he often helps his mother clean the house and cook rice. I am very proud to have a friend like Hoàng.
+ 
+ 
 
-### 2
+## MỞ RỘNG: RÚT GỌN 2 Mệnh đề sử dụng phân từ
 
-My mom is a great person. Not only is she smart and resilient but she’s also generous to other people around her. She was born in an impoverished family as my grandparents didn’t have much. She’s always told me that her only escape was education.
+1. After she had worked hard all day, Sarah was exhausted.
 
-However, the first time she took the university exam, she failed due to the insurmountable pressure on her shoulder being the only hope of the family. My grandparents didn’t have more money to support her the following year, so for months, she hand reared a litter of piglets to make money. The year after that, with more experience, she aced the test, got to the university, and became a pharmacist 5 years after.
+- Having worked hard all day, Sarah was exhausted
 
-These days, she’s also a successful businesswoman with her own pharmacy. She told me the reason why she became a pharmacist was that she could take care of my grandparents. Nevertheless, she’s helped many more people in need. She donates her time and money to charitable organisations.
-
-As a mother, she always teaches me to be fair and honest. I truly believe these characteristics have helped me a lot in life. And she’s the first person who comes to me whenever I feel unhappy.
-
-These are the reasons why I admire my mom.
-
-### 3
-
-I am going to talk about MONO. He is a new famous singer and songwriter. Recently she has released her first album, “22”. This album is successful nationally and I really love it. 
-
-I have known MONO since he debut song, “Quen Anh Di”. It came out over a few months ago. At that time, I thought his album not so good, but I was impressed with he voice and her performance when full album released. I guessed this man would become one of the most well-known artists in the future. Now I know I was so right.
-
-To be honest, I did not listen to her very often in the past. I just started to listen more these days. Although he is called Son Tung's younger brother, he is not influenced too much by his brother. He has a dynamic, youthful energy when performing. That is even more evident through the performance at Miss grand Vietnam. He will be a potential in the future.
-
+2. He left the phone ring for 5 minutes and then slowly replaced the receiver.
+- Having left the phone ring for 5 minutes, he slowly replaced the receiver
+ 
+WORD FORMATION
+1. People should not capture animals for__**recreation**__ and entertainment. ​​​(RECREATE)
+2. Coal, gas and oil are __**non-renewable**__ forms of energy that cannot be replaced after used.​ (RENEW)
+3. Scientists have made lists of__**endangered**__ species. ​​​​(DANGER)
+4. We cannot stop the __**disappearence**__ of plants and animals.​ ​(APPEAR)
+5. The panda's __**natural**__ habitat is the bamboo forest. ​​​​(NATURE)
+6. You have to be aware of the damage humans are doing to quicken the __**extinction**__ of wildlife. (EXTINCT)
 
