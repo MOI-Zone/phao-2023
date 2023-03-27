@@ -20,3 +20,5 @@ dcm tự search đi mệt vcl, đéo có tool gì đâu
 
 -----
 [tool the gioi](tool.md)
+----
+[tool trac nghiem](https://minhquang.xyz/tracnghiem)
