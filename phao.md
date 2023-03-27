@@ -16,3 +16,7 @@ dcm tự search đi mệt vcl, đéo có tool gì đâu
 ## [Lý](data/ly.html) 
 ## [Hóa](data/hoa.html) 
 ## [Sinh](data/sinh.html) 
+
+
+-----
+[tool the gioi](tool.md)
