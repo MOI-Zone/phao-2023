@@ -18,6 +18,10 @@ dcm tự search đi mệt vcl, đéo có tool gì đâu
 ## [Sinh](data/sinh.html) 
 
 
+## [toan1](data/TOAN_GK2_101.pdf)
+## [toan2](data/TOAN_GK2_111.pdf)
+
+
 -----
 [tool the gioi](tool.md)
 
